@@ -1,7 +1,7 @@
 //package level_2;
-//
+
 //import java.util.Arrays;
-//
+
 //public class Shuffle_The_Array {
 //    public static int[] shuffle(int[] nums, int n) {
 //        int[] newArr=new int[2*n];
